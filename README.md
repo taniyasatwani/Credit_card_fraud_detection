@@ -21,9 +21,13 @@ The data set includes credit card transactions made by European cardholders over
 
 **Get Started**
 1. Used machine learning models(logistic regresion, decision tree, random forest, xgboost) to classify transactions. Run `credit_card_fraud_detection.ipynb`.
+
    A. On the original unbalance data.
+   
    B. Did sampling(undersampling, oversampling, SMOTE, AdaSyn) on unbalance data.
+   
 2. Used deep learning model(autoencoder) to classify transaction. Run `credit_card_fraud_detection_using_autoencoders.ipynb`.
+
 The project pipeline can be briefly summarized in the following five steps:
 
 Solution approach
